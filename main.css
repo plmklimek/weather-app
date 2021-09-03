@@ -1,0 +1,29 @@
+body, html{
+    height:100%;
+    padding:0;
+    margin:0;
+  }
+  .container{
+    height:100%;
+    background-image: url("https://cdn.pixabay.com/photo/2017/05/20/20/22/clouds-2329680_960_720.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .textInput{
+    display:block;
+    margin: 0 auto 0 auto;
+    font-size:24px;
+  }
+  .textContainer{
+    color:black;
+    display:block;
+    background:rgba(214, 208, 191, 0.8);
+    width:40%;
+    margin:0 auto 0 auto;
+    font-size:30px;
+    text-align:center;
+  }
+  .text{
+    display:block;
+  }
